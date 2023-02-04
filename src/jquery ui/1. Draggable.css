@@ -1,0 +1,50 @@
+
+/* 1. Draggable  */
+#draggable{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    color: white;
+}
+.contain{
+    width: 50vh;
+    height: 50vw;
+    background-color: aqua;
+}
+
+/* 2. Droppable.js */
+#draggable1{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    color: white;
+}
+#droppable{
+    width: 250px;
+    height: 250px;
+    background-color: bisque;
+}
+
+/* 3. Resizable */
+#resizable{
+    width: 150px;
+    height: 150px;
+}
+
+/* 4. Selected */
+#feedback { font-size: 1.4em; }
+#selectable .ui-selecting { background: #FECA40; }
+#selectable .ui-selected { background: #F39814; color: white; }
+#selectable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+#selectable li { margin: 3px; padding: 0.4em; font-size: 1.4em; height: 18px; }
+.ui-widget-content{
+    height: 50px !important;
+}
+/* 5. Sortable.js */
+#sortable { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+#sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1.4em; height: 18px; }
+#sortable li span { position: absolute; margin-left: -1.3em; }
+.ui-state-default{
+    height: 50px !important;
+}
+

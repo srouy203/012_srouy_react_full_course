@@ -1,0 +1,10 @@
+.navbar{
+    width: 100vw;
+    height: 80px;
+    background-color: rgb(101, 101, 101);
+}
+.navbar-contain > a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}

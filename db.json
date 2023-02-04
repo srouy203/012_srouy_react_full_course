@@ -1,0 +1,65 @@
+{
+  "students": [
+    {
+      "name": "Ang LeangSrouy",
+      "sex": "Male",
+      "school": "Rupp",
+      "id": 1
+    },
+    {
+      "name": "nong davev",
+      "sex": "Male",
+      "school": "NPIC",
+      "id": 2
+    },
+    {
+      "name": "thun sothearaeetr",
+      "sex": "Famale",
+      "school": "NUM",
+      "id": 3
+    }
+  ],
+  "teachers": [
+    {
+      "name": "thun sotheara",
+      "sex": "Famale",
+      "school": "Hossana",
+      "id": 3
+    },
+    {
+      "name": "nong david",
+      "sex": "Male",
+      "school": "IFL",
+      "id": 4
+    },
+    {
+      "name": "Meah Hannah",
+      "sex": "Male",
+      "school": "Hosanna",
+      "id": 5
+    },
+    {
+      "name": "Ang LeangSrouy",
+      "sex": "Male",
+      "school": "RUPP",
+      "id": 6
+    }
+  ],
+  "user": [
+    {
+      "id": "leangsrouyang@gmail.com",
+      "majorId": "Computer Scient"
+    }
+  ],
+  "major": [
+    {
+      "id": "Computer Scient",
+      "courses": [
+        "Data comunication",
+        "Data Structure",
+        "English",
+        "C++ Programming"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+.navbar{
+    width: 100vw;
+    height: auto;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+.navbar-contain{
+    width: 100vw;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.logo:hover{
+    color: white;
+}
+.navbar-menu{
+    width: 70vw;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    justify-content: end;
+    align-items: center;
+    margin: 0px;
+}
+.navbar-item{
+    list-style: none;
+    margin-right: 50px;
+    width: 100px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-list{
+    text-decoration: none;
+    color: white;
+}
+.navbar-list:hover{
+    color: white;
+}
+.navbar-item:hover{
+    background-color: rgb(37, 37, 37);
+}
+.loading{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Product{
+    width: 25%;
+    height: auto;
+}
+.Product > img{
+    width: 100px;
+}
+.Product > h6{
+    color: chartreuse;
+}
+.Product > p{
+    color: blue;
+}
+.Product > small{
+    color: red;
+}

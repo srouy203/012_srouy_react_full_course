@@ -1,0 +1,14 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Open+Sans:wght@300;400;500;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+} */
